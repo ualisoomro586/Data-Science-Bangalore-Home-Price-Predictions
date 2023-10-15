@@ -7,9 +7,9 @@
 
  # Projecy Details 
  # Group Members 
- **Muhammad Usman (20SW041)**
- **Muhammad Usama (20SW001)**
- **Adarsh Kumar   (20SW117)**
+ * **Muhammad Usman (20SW041)**
+ * **Muhammad Usama (20SW001)**
+ * **Adarsh Kumar   (20SW117)**
 
  ## Dataset 
  * **Source:** Kaggle
